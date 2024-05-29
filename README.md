@@ -1,4 +1,6 @@
 Simplified Code Explanation:
+
+
 Data Input:
 
 Ask the user for the number of elements to sort.
